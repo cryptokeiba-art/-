@@ -12,7 +12,7 @@ import FAQ from './components/FAQ';
 import Footer from './components/Footer';
 import BlogIndexPage from './components/BlogIndexPage';
 import BlogPostPage from './components/BlogPostPage';
-import EditPostModal from './components/EditPost-Modal';
+import EditPostModal from './components/EditPostModal';
 import AiPostGeneratorModal from './components/AiPostGeneratorModal';
 import { getPosts } from './lib/posts';
 import type { Post } from './types';
